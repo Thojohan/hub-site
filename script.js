@@ -91,8 +91,7 @@ async function getWeather(lat, long) {
 
 async function getNews() {
   const newsResponse = await fetch(
-    //`https://saurav.tech/NewsAPI/everything/cnn.json`
-    `https://newsapi.org/v2/top-headlines?country=no&apiKey=cf1fbf20cbbc4d66884897e8e49299e6`
+   "https://saurav.tech/NewsAPI/top-headlines/category/general/us.json"
   )
     .then((response) => {
       console.log(response);
