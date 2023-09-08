@@ -169,18 +169,15 @@ body {
 }
 
 .link-container {
-  display: table;
- 
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  vertical-align: middle;
+  justify-content: center;
   width: 100%;
   height: 70px;
   font-size: 15px;
   cursor: default;
-}
-
-.link-container p {
-  text-align: center;
-  vertical-align: middle;
-  display: table-cell;
 }
 
 .link-container:hover {
