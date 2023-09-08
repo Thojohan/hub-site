@@ -179,6 +179,10 @@ body {
   cursor: default;
 }
 
+.link-container p {
+  text-align: center;
+}
+
 .link-container:hover {
   background-color: rgb(231, 228, 228);
   font-weight: bold;
