@@ -58,7 +58,7 @@ body {
   color: black;
   font-family: "Righteous", cursive;
   font-weight: 600;
-  font-size: 48px;
+  font-size: 45px;
 
   animation: expand-shrink 12s ease-in-out infinite alternate;
 }
