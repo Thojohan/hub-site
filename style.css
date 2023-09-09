@@ -164,7 +164,7 @@ body {
 .side-section {
   background-color: rgb(232, 236, 236);
   position: sticky;
-  width: 175px;
+  width: 170px;
   height: 100%;
 }
 
@@ -175,7 +175,7 @@ body {
   vertical-align: middle;
   justify-content: center;
   width: 100%;
-  height: 70px;
+  height: 67px;
   
   cursor: default;
 }
