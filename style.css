@@ -175,14 +175,14 @@ body {
   vertical-align: middle;
   justify-content: center;
   width: 100%;
-  height: 70px;
+  height: 75px;
   
   cursor: default;
 }
 
 .link-description {
   font-size: 15px;
-  margin: 0;
+  margin: 2px;
   }
   
 
