@@ -181,7 +181,8 @@ body {
 }
 
 .sub-text {
-  font-size: 13px;
+  font-size: 12px;
+}
 
 .link-container:hover {
   background-color: rgb(231, 228, 228);
